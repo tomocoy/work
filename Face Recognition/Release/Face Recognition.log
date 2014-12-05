@@ -1,0 +1,27 @@
+﻿生成启动时间为 2014/11/24 17:38:54。
+     1>项目“D:\Workspace\visual studio 2013\Projects\Face Recognition\Face Recognition\Face Recognition.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Face Recognition.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Face Recognition.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CodeTrans.cpp CvvImage.cpp "Face Recognition.cpp" "Face RecognitionDlg.cpp"
+         CodeTrans.cpp
+         CvvImage.cpp
+         Face Recognition.cpp
+         Face RecognitionDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\Face Recognition.res" "Face Recognition.rc" 
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Workspace\visual studio 2013\Projects\Face Recognition\Release\Face Recognition.exe" /INCREMENTAL:NO /NOLOGO opencv_videostab2410.lib opencv_video2410.lib opencv_ts2410.lib opencv_superres2410.lib opencv_stitching2410.lib opencv_photo2410.lib opencv_ocl2410.lib opencv_objdetect2410.lib opencv_nonfree2410.lib opencv_ml2410.lib opencv_legacy2410.lib opencv_imgproc2410.lib opencv_highgui2410.lib opencv_gpu2410.lib opencv_flann2410.lib opencv_features2d2410.lib opencv_core2410.lib opencv_contrib2410.lib opencv_calib3d2410.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Workspace\visual studio 2013\Projects\Face Recognition\Release\Face Recognition.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Workspace\visual studio 2013\Projects\Face Recognition\Release\Face Recognition.lib" /MACHINE:X86 /SAFESEH "Release\Face Recognition.res"
+         Release\CodeTrans.obj
+         Release\CvvImage.obj
+         "Release\Face Recognition.obj"
+         "Release\Face RecognitionDlg.obj"
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         Face Recognition.vcxproj -> D:\Workspace\visual studio 2013\Projects\Face Recognition\Release\Face Recognition.exe
+     1>已完成生成项目“D:\Workspace\visual studio 2013\Projects\Face Recognition\Face Recognition\Face Recognition.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:19.88
